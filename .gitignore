@@ -2,3 +2,4 @@
 .idea/
 app/__pycache__/
 app/test/__pycache__/
+auth.json
